@@ -12,7 +12,7 @@
             <ul></ul>
         </div>
     </div>
-    <div class="container-fluid bg-info" style="height:250px; background-color: darkcyan ;">
+    <div class="container-fluid bg-info" style="height:400px; background-color: darkcyan ;">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12" >
@@ -37,7 +37,7 @@
             <div class="alert alert-success print-success-msg" role="alert" style="display:none">
                 <p><label id="originalurllbl" style="overflow-wrap: anywhere;"></label></p>
                 <span>Generated micro url is</span>
-
+                
                 <p><input type="text" name="microurl" readonly />&nbsp;&nbsp;&nbsp;<button onclick="copyToClipboard()">Copy
                         URL</button>
                 </p>
